@@ -21,7 +21,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "knex": "latest",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "sqlite3": "latest",
     "strapi": "3.0.0-alpha.26.2",
     "strapi-hook-bookshelf": "3.0.0-alpha.26.2",
